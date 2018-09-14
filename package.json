@@ -1,0 +1,22 @@
+{
+  "name": "tag-test",
+  "version": "0.0.2",
+  "description": "Testing semi automated tagging",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shtev21/tag-test.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Steve Slade",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shtev21/tag-test/issues"
+  },
+  "homepage": "https://github.com/shtev21/tag-test#readme"
+}
